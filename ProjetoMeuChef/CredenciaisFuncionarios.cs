@@ -21,7 +21,7 @@ namespace ProjetoMeuChef
 
         public bool CredenciaisAjudante()
         {
-            return funcionario == "Fábio" && senha == "123" && cargo == "Ajudante";
+            return funcionario == "Arthur" && senha == "123" && cargo == "Ajudante";
         }
     }
 }
